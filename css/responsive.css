@@ -15,8 +15,4 @@
         flex-wrap: wrap;
         justify-content: center;
     }
-
-    main .main-content .social-medias a {
-        font-size: 16px;
-    }
 }
