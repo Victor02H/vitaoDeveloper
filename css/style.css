@@ -74,8 +74,8 @@ main .main-content .social-medias a {
     color: #1d1d1d;
 }
 
-main .main-content .social-medias a i {
-    font-size: 40px;
+main .main-content .social-medias a .icons {
+    width: 40px;
 }
 
 main .main-content .social-medias a span {
