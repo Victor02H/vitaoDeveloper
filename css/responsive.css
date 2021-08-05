@@ -1,0 +1,18 @@
+@media screen and (max-width: 424px) {
+    main h1 {
+        font-size: 24px;
+    }
+
+    main h2 {
+        font-size: 16px;
+    }
+
+    main .main-content p {
+        font-size: 18px;
+    }
+
+    main .main-content .social-medias {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
