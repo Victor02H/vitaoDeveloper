@@ -69,13 +69,12 @@ main .main-content .social-medias li:hover{
 main .main-content .social-medias a {
     display: block;
     padding: 14px;
-    font-size: 18px;
     text-decoration: none;
     color: #1d1d1d;
 }
 
-main .main-content .social-medias a i {
-    font-size: 40px;
+main .main-content .social-medias a .icons {
+    width: 40px;
 }
 
 main .main-content .social-medias a span {
